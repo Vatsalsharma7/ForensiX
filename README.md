@@ -59,3 +59,7 @@ Auto-generates investigation reports with filtered logs, risk scores, and timeli
 
 Formats: PDF, JSON, and CSV for compatibility with external tools.
 
+![Screenshot 2025-04-15 201922](https://github.com/user-attachments/assets/d9785715-2a2a-450a-86a5-e59d1e997fb0)
+
+![image](https://github.com/user-attachments/assets/1574e2a3-3dbd-45d6-ad50-cecabdeff96b)
+
