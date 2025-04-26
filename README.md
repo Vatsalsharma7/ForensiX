@@ -1,4 +1,11 @@
 # ForensiX
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Frameworks](https://img.shields.io/badge/Frameworks-TSK%20%7C%20Volatility%20%7C%20PyShark-green.svg)
+![AI Models](https://img.shields.io/badge/ML-Isolation%20Forest%20%7C%20Random%20Forest-blueviolet.svg)
+![Focus](https://img.shields.io/badge/Focus-Digital%20Forensics%20%7C%20Incident%20Response-critical.svg)
+![Status](https://img.shields.io/badge/Status-Completed-success.svg)
+![License](https://img.shields.io/badge/License-Educational-important.svg)
+
 A cyber triage tool to streamline digital forensic investigation
 
 
